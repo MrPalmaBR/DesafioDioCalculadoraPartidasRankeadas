@@ -38,7 +38,7 @@ function calcularRank(numVitorias,numDerrotas){
 
 // Entrada do usuário, com os dados do jogador
 let nicknameJogador = "Tonhão";
-let numVitorias = 21;
+let numVitorias = 141;
 let numDerrotas = 50;
 
 // Chamando a função para informar o rank
